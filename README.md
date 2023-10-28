@@ -4,12 +4,9 @@ This Flutter project demonstrates a cool animation on a wallet card, simulating 
 
 ## Demo
 
-Watch the animation video below:
+Watch the animation video below: [View Video](https://github.com/shaheer-hybreed/disk-animation/assets/89133344/4ae85435-96c2-4331-9ab8-65e48688af8f)
 
-<video width="320" height="240" controls>
-  <source src="assets/disk animation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 ## Getting Started
 
